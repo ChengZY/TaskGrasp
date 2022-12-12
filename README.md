@@ -46,6 +46,7 @@ cd Pointnet2_PyTorch
 pip install -r requirements.txt
 pip install -e .
 ```
+after installation, follow https://github.com/facebookresearch/votenet/issues/112
 5) Install [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric) (only tested on v1.5.0)
 torch-scatter-2.0.5 (only 2.0.5)
 torch-sparse-0.5.1 (<0.5.2)
